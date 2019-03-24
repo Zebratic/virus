@@ -8,7 +8,7 @@
                    ╚══════╝╚═╝     ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝     ╚══╝╚══╝ ╚══════╝╚═════╝ 
                                                                                          
 
-'
+
 
 
 	This is a package of both harmless and dangerous viruses!
@@ -22,7 +22,7 @@
 
 
 
-'
+
 
 	 _   _                    _                                
 	| | | |                  | |                             _ 
@@ -46,7 +46,3 @@
 	5. (Maybe be ready to open Cure.exe if you're opening a dangerous virus)
 
 	6. Watch your PC burn... :^)
-
-
- 
-'
