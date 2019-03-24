@@ -7,8 +7,8 @@
                    ███████║██║     ██║██████╔╝███████╗██║  ██║    ╚███╔███╔╝███████╗██████╔╝
                    ╚══════╝╚═╝     ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝     ╚══╝╚══╝ ╚══════╝╚═════╝ 
                                                                                          
- ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.
-'    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  ' 
+
+'
 
 
 	This is a package of both harmless and dangerous viruses!
@@ -21,8 +21,8 @@
 	Also dont panic! (A simple restart of your PC, will kill all viruses)
 
 
- ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.
-'    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  ' 
+
+'
 
 	 _   _                    _                                
 	| | | |                  | |                             _ 
@@ -48,5 +48,5 @@
 	6. Watch your PC burn... :^)
 
 
- ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.    ,  ,d88b.
-'    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  '    `Y88P'  ' 
+ 
+'
