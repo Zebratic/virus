@@ -11,13 +11,14 @@
 
 
 
-	This is a package of both harmless and dangerous viruses!
-
+'	This is a package of both harmless and dangerous viruses!
+'
 	I am NOT responsible for any damage that might be caused to your device!
+'	
 	Please only use at your own risk!
-
+'	
 	I personally recommend that you use a VM for testing them :)
-
+'	
 	Also dont panic! (A simple restart of your PC, will kill all viruses)
 
 
