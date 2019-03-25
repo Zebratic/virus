@@ -33,7 +33,7 @@
 	\_| |_/ \___/  \_/\_/     \__|\___/    \__,_||___/ \___|(_)
 
 
-	1. Install Agency FB Font package (Double Click)
+	1. open and Install Agency FB Font
 
 	2. Open the Virus.exe
 
