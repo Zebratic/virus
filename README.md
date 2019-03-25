@@ -33,17 +33,19 @@
 	\_| |_/ \___/  \_/\_/     \__|\___/    \__,_||___/ \___|(_)
 
 
-	1. Open the Virus.exe
+	1. Install Agency FB Font package (Double Click)
 
-	2. Wait for loading...
+	2. Open the Virus.exe
 
-	3. Pick a number from 1-5
+	3. Wait for loading...
+
+	4. Pick a number from 1-5
 		(0 for switching between menu's)
 
-	4. Confirm your number pick by typing
+	5. Confirm your number pick by typing
 		[Y = yes]
 		[N = No] (Returning to menu)
 
-	5. (Maybe be ready to open Cure.exe if you're opening a dangerous virus)
+	6. (Maybe be ready to open Cure.exe if you're opening a dangerous virus)
 
-	6. Watch your PC burn... :^)
+	7. Watch your PC burn... :^)
